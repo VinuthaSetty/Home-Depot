@@ -1,0 +1,170 @@
+ INFO | 2016-05-02 21:38:28,833 | Story2.java | 124 | Home-Link
+ INFO | 2016-05-02 21:38:28,841 | Story2.java | 126 | Email text box present: Pass
+ INFO | 2016-05-02 21:38:28,841 | Story2.java | 131 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:38:28,841 | Story2.java | 132 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:38:28,842 | Story2.java | 133 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:38:31,817 | Story2.java | 124 | January
+ INFO | 2016-05-02 21:38:31,818 | Story2.java | 126 | Email text box present: Pass
+ INFO | 2016-05-02 21:38:31,818 | Story2.java | 131 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:38:31,819 | Story2.java | 132 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:38:31,819 | Story2.java | 133 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:38:33,870 | Story2.java | 71 | Num of Notify Email Boxes  :0
+ INFO | 2016-05-02 21:38:38,217 | Story2.java | 124 | February
+ INFO | 2016-05-02 21:38:38,218 | Story2.java | 126 | Email text box present: Pass
+ INFO | 2016-05-02 21:38:38,218 | Story2.java | 131 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:38:38,218 | Story2.java | 132 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:38:38,218 | Story2.java | 133 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:38:40,274 | Story2.java | 71 | Num of Notify Email Boxes  :0
+ INFO | 2016-05-02 21:38:43,626 | Story2.java | 124 | March
+ INFO | 2016-05-02 21:38:43,627 | Story2.java | 126 | Email text box present: Pass
+ INFO | 2016-05-02 21:38:43,627 | Story2.java | 131 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:38:43,628 | Story2.java | 132 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:38:43,628 | Story2.java | 133 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:38:45,681 | Story2.java | 71 | Num of Notify Email Boxes  :0
+ INFO | 2016-05-02 21:38:49,728 | Story2.java | 124 | April
+ INFO | 2016-05-02 21:38:49,728 | Story2.java | 126 | Email text box present: Pass
+ INFO | 2016-05-02 21:38:49,729 | Story2.java | 131 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:38:49,729 | Story2.java | 132 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:38:49,729 | Story2.java | 133 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:38:51,780 | Story2.java | 71 | Num of Notify Email Boxes  :0
+ INFO | 2016-05-02 21:38:55,343 | Story2.java | 124 | May
+ INFO | 2016-05-02 21:38:55,344 | Story2.java | 126 | Email text box present: Pass
+ INFO | 2016-05-02 21:38:55,344 | Story2.java | 131 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:38:55,344 | Story2.java | 132 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:38:55,344 | Story2.java | 133 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:38:57,394 | Story2.java | 71 | Num of Notify Email Boxes  :0
+ INFO | 2016-05-02 21:39:02,128 | Story2.java | 124 | June
+ INFO | 2016-05-02 21:39:02,129 | Story2.java | 126 | Email text box present: Pass
+ INFO | 2016-05-02 21:39:02,129 | Story2.java | 131 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:39:02,129 | Story2.java | 132 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:02,130 | Story2.java | 133 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:02,177 | Story2.java | 71 | Num of Notify Email Boxes  :2
+ INFO | 2016-05-02 21:39:04,058 | Story2.java | 87 | Notify Email Box No.1 Pass
+ INFO | 2016-05-02 21:39:04,058 | Story2.java | 88 | Actual: 0  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:04,058 | Story2.java | 89 | Expted: 0  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:06,089 | Story2.java | 87 | Notify Email Box No.2 Pass
+ INFO | 2016-05-02 21:39:06,089 | Story2.java | 88 | Actual: 1  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:06,089 | Story2.java | 89 | Expted: 1  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:09,331 | Story2.java | 124 | July
+ INFO | 2016-05-02 21:39:09,331 | Story2.java | 126 | Email text box present: Pass
+ INFO | 2016-05-02 21:39:09,331 | Story2.java | 131 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:39:09,331 | Story2.java | 132 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:09,332 | Story2.java | 133 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:09,379 | Story2.java | 71 | Num of Notify Email Boxes  :2
+ INFO | 2016-05-02 21:39:12,114 | Story2.java | 87 | Notify Email Box No.1 Pass
+ INFO | 2016-05-02 21:39:12,114 | Story2.java | 88 | Actual: 0  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:12,114 | Story2.java | 89 | Expted: 0  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:14,328 | Story2.java | 87 | Notify Email Box No.2 Pass
+ INFO | 2016-05-02 21:39:14,328 | Story2.java | 88 | Actual: 1  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:14,328 | Story2.java | 89 | Expted: 1  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:17,022 | Story2.java | 124 | August
+ INFO | 2016-05-02 21:39:17,022 | Story2.java | 126 | Email text box present: Pass
+ INFO | 2016-05-02 21:39:17,023 | Story2.java | 131 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:39:17,023 | Story2.java | 132 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:17,023 | Story2.java | 133 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:17,065 | Story2.java | 71 | Num of Notify Email Boxes  :2
+ INFO | 2016-05-02 21:39:19,065 | Story2.java | 87 | Notify Email Box No.1 Pass
+ INFO | 2016-05-02 21:39:19,065 | Story2.java | 88 | Actual: 0  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:19,065 | Story2.java | 89 | Expted: 0  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:21,935 | Story2.java | 87 | Notify Email Box No.2 Pass
+ INFO | 2016-05-02 21:39:21,936 | Story2.java | 88 | Actual: 1  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:21,936 | Story2.java | 89 | Expted: 1  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:25,238 | Story2.java | 124 | September
+ INFO | 2016-05-02 21:39:25,239 | Story2.java | 126 | Email text box present: Pass
+ INFO | 2016-05-02 21:39:25,239 | Story2.java | 131 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:39:25,239 | Story2.java | 132 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:25,239 | Story2.java | 133 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:25,330 | Story2.java | 71 | Num of Notify Email Boxes  :2
+ INFO | 2016-05-02 21:39:27,675 | Story2.java | 87 | Notify Email Box No.1 Pass
+ INFO | 2016-05-02 21:39:27,675 | Story2.java | 88 | Actual: 0  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:27,676 | Story2.java | 89 | Expted: 0  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:29,624 | Story2.java | 87 | Notify Email Box No.2 Pass
+ INFO | 2016-05-02 21:39:29,624 | Story2.java | 88 | Actual: 1  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:29,624 | Story2.java | 89 | Expted: 1  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:33,054 | Story2.java | 124 | October
+ INFO | 2016-05-02 21:39:33,055 | Story2.java | 126 | Email text box present: Pass
+ INFO | 2016-05-02 21:39:33,055 | Story2.java | 131 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:39:33,055 | Story2.java | 132 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:33,055 | Story2.java | 133 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:33,107 | Story2.java | 71 | Num of Notify Email Boxes  :2
+ INFO | 2016-05-02 21:39:35,701 | Story2.java | 87 | Notify Email Box No.1 Pass
+ INFO | 2016-05-02 21:39:35,702 | Story2.java | 88 | Actual: 0  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:35,702 | Story2.java | 89 | Expted: 0  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:37,818 | Story2.java | 87 | Notify Email Box No.2 Pass
+ INFO | 2016-05-02 21:39:37,818 | Story2.java | 88 | Actual: 1  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:37,818 | Story2.java | 89 | Expted: 1  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:43,311 | Story2.java | 124 | November
+ INFO | 2016-05-02 21:39:43,312 | Story2.java | 126 | Email text box present: Pass
+ INFO | 2016-05-02 21:39:43,312 | Story2.java | 131 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:39:43,312 | Story2.java | 132 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:43,312 | Story2.java | 133 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:43,360 | Story2.java | 71 | Num of Notify Email Boxes  :2
+ INFO | 2016-05-02 21:39:45,482 | Story2.java | 87 | Notify Email Box No.1 Pass
+ INFO | 2016-05-02 21:39:45,482 | Story2.java | 88 | Actual: 0  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:45,482 | Story2.java | 89 | Expted: 0  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:47,200 | Story2.java | 87 | Notify Email Box No.2 Pass
+ INFO | 2016-05-02 21:39:47,201 | Story2.java | 88 | Actual: 1  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:47,201 | Story2.java | 89 | Expted: 1  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:50,287 | Story2.java | 124 | December
+ INFO | 2016-05-02 21:39:50,287 | Story2.java | 126 | Email text box present: Pass
+ INFO | 2016-05-02 21:39:50,287 | Story2.java | 131 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:39:50,287 | Story2.java | 132 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:50,287 | Story2.java | 133 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:52,348 | Story2.java | 71 | Num of Notify Email Boxes  :0
+ INFO | 2016-05-02 21:39:57,743 | Story2.java | 124 | All Shoes
+ INFO | 2016-05-02 21:39:57,744 | Story2.java | 126 | Email text box present: Pass
+ INFO | 2016-05-02 21:39:57,744 | Story2.java | 131 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:39:57,744 | Story2.java | 132 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:57,744 | Story2.java | 133 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:57,945 | Story2.java | 71 | Num of Notify Email Boxes  :12
+ INFO | 2016-05-02 21:39:59,583 | Story2.java | 87 | Notify Email Box No.1 Pass
+ INFO | 2016-05-02 21:39:59,583 | Story2.java | 88 | Actual: 0  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:39:59,584 | Story2.java | 89 | Expted: 0  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:01,369 | Story2.java | 87 | Notify Email Box No.2 Pass
+ INFO | 2016-05-02 21:40:01,370 | Story2.java | 88 | Actual: 1  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:01,370 | Story2.java | 89 | Expted: 1  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:03,608 | ? | ? | Notify Email Box No.3 Pass
+ INFO | 2016-05-02 21:40:03,608 | ? | ? | Actual: 2  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:03,608 | ? | ? | Expted: 2  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:05,389 | ? | ? | Notify Email Box No.4 Pass
+ INFO | 2016-05-02 21:40:05,389 | ? | ? | Actual: 3  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:05,390 | ? | ? | Expted: 3  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:07,434 | ? | ? | Notify Email Box No.5 Pass
+ INFO | 2016-05-02 21:40:07,435 | ? | ? | Actual: 4  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:07,435 | ? | ? | Expted: 4  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:09,225 | ? | ? | Notify Email Box No.6 Pass
+ INFO | 2016-05-02 21:40:09,226 | ? | ? | Actual: 5  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:09,226 | ? | ? | Expted: 5  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:10,982 | ? | ? | Notify Email Box No.7 Pass
+ INFO | 2016-05-02 21:40:10,982 | ? | ? | Actual: 6  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:10,982 | ? | ? | Expted: 6  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:12,873 | ? | ? | Notify Email Box No.8 Pass
+ INFO | 2016-05-02 21:40:12,874 | ? | ? | Actual: 7  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:12,874 | ? | ? | Expted: 7  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:14,702 | ? | ? | Notify Email Box No.9 Pass
+ INFO | 2016-05-02 21:40:14,702 | ? | ? | Actual: 8  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:14,703 | ? | ? | Expted: 8  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:16,377 | ? | ? | Notify Email Box No.10 Pass
+ INFO | 2016-05-02 21:40:16,377 | ? | ? | Actual: 9  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:16,377 | ? | ? | Expted: 9  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:18,142 | ? | ? | Notify Email Box No.11 Pass
+ INFO | 2016-05-02 21:40:18,142 | ? | ? | Actual: 10  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:18,142 | ? | ? | Expted: 10  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:19,874 | ? | ? | Notify Email Box No.12 Pass
+ INFO | 2016-05-02 21:40:19,875 | ? | ? | Actual: 11  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:19,875 | ? | ? | Expted: 11  Thanks! We will notify you when this shoe is available at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:22,243 | Story2.java | 126 | Report An Issue-Link
+ INFO | 2016-05-02 21:40:22,244 | Story2.java | 128 | Email text box present: Pass
+ INFO | 2016-05-02 21:40:22,244 | Story2.java | 133 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:40:22,244 | Story2.java | 134 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:22,244 | Story2.java | 135 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:24,655 | Story2.java | 126 | Issues-Link
+ INFO | 2016-05-02 21:40:24,656 | Story2.java | 128 | Email text box present: Pass
+ INFO | 2016-05-02 21:40:24,656 | Story2.java | 133 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:40:24,656 | Story2.java | 134 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:24,656 | Story2.java | 135 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:27,195 | Story2.java | 126 | Problem Definition-Link
+ INFO | 2016-05-02 21:40:27,195 | Story2.java | 128 | Email text box present: Pass
+ INFO | 2016-05-02 21:40:27,195 | Story2.java | 133 | Remind Me Email Box: Pass
+ INFO | 2016-05-02 21:40:27,195 | Story2.java | 134 | RemindTxBx Actual: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
+ INFO | 2016-05-02 21:40:27,195 | Story2.java | 135 | RemindTxBx Expted: Thanks! We will notify you of our new shoes at this email: yes@hotmail.com
