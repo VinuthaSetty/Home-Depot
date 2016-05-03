@@ -1,6 +1,6 @@
 # Home-Depot
-Story1:
-Acceptance Criteria:
+##Story1:
+###Acceptance Criteria:
 
 -Month should display a small Blurb of each shoe
 -Month should display an image each shoe being released
@@ -12,12 +12,12 @@ Acceptance Criteria:
 4. Print statements are left there for verification.
 5. This is tested on Mozilla Firefox and Chrome browser.
 
-Observation:
+###Observation:
 1. Image is not present for both of the shoes in November.
 
 
-Story2:
-Acceptance Criteria:
+##Story2:
+###Acceptance Criteria:
 -There should be an area to submit email address
 -on successful submission of a valid email address user should receive a message Thanks! We will notify you of our new shoes at this email: users email address
 
@@ -34,7 +34,8 @@ Acceptance Criteria:
 It does not check for links for specific shoe brands, as this might be redundant.
 5. More details like actual and expected message for each email box are logged into theShoeStore.log.
 
-Issues:
+##Issues:
+
 1. All of the “Notify me if this shoe is available”– email boxes – do not display proper message when an invalid email is submitted.
 2. All of the “Notify me when this shoe is available” email boxes - do not display an error message when you leave email text box empty and click on submit.
 3. Both the shoes in November month do not display the images.
