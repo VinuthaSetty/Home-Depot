@@ -32,7 +32,7 @@
 	-Issues Link
 	-Problem Definition Link
 It does not check for links for specific shoe brands, as this might be redundant.
-5. More details like actual and expected message for each email box are logged into theShoeStore.log.
+5. More details like actual and expected message for each email box are logged into test.log.
 
 ##Issues:
 
